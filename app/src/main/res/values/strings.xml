@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">eBook App</string>
+    <string name="home">Home</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate us</string>
+</resources>
